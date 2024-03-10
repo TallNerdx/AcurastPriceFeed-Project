@@ -7,11 +7,11 @@ This was inspired by and is a modification of the [Limitless Compute: Access to 
 * Checks the current block stamp price against the last updated price.
 * Reverts if this difference exceeds 1 hour with a 'Price is Outdated' error message.
 ## Demo Video
-* [Watch Here]()
+* [Watch Here](https://youtu.be/0hMk3665HNU?si=sx0ay3_-xstWnXlC)
 ## Images
 * ![Processor's Address](https://i.imgur.com/IyUJaah.png)
 ## Technical Paper (Tutorial)
-*
+* 
 ## Other Information
 * [Link](https://goerli.etherscan.io/tx/0xbafa5b4a8a64b81b2a2d10606ad33618b4c93f13d2747c61d39b2ba830157b01) to transaction or payment to the processor to carry out the price feed job.
 * Contract Address: 0x7ef887d376CC6F7FCE716e469F351F6FCABB1CaE
