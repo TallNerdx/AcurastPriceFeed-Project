@@ -10,4 +10,10 @@ This was inspired by and is a modification of the [Limitless Compute: Access to 
 * [Watch Here]()
 ## Images
 
-
+##Technical Paper (Tutorial)
+*
+##Other Information
+* [Link](https://goerli.etherscan.io/tx/0xbafa5b4a8a64b81b2a2d10606ad33618b4c93f13d2747c61d39b2ba830157b01) to transaction or payment to the processor to carry out the price feed job.
+* Contract Address: 0x7ef887d376CC6F7FCE716e469F351F6FCABB1CaE
+* [Link](https://goerli.etherscan.io/address/0x7ef887d376cc6f7fce716e469f351f6fcabb1cae) to smart contract (getBTCPrice)
+  
