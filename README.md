@@ -14,7 +14,7 @@ This was inspired by and is a modification of the [Limitless Compute: Access to 
 * Copy the processor's address
    ![Processor's Address](https://i.imgur.com/IyUJaah.png)
 ## Technical Paper (Tutorial)
-* 
+* [Using Acurast to provide price feed data for BTC/USDT](https://tallnerd.hashnode.dev/using-acurast-to-provide-price-feed-data-for-btcust)
 ## Other Information
 * [Link](https://goerli.etherscan.io/tx/0xbafa5b4a8a64b81b2a2d10606ad33618b4c93f13d2747c61d39b2ba830157b01) to transaction or payment to the processor to carry out the price feed job.
 * Contract Address: 0x7ef887d376CC6F7FCE716e469F351F6FCABB1CaE
