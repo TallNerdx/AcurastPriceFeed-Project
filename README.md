@@ -9,7 +9,7 @@ This was inspired by and is a modification of the [Limitless Compute: Access to 
 ## Demo Video
 * [Watch Here](https://youtu.be/0hMk3665HNU?si=sx0ay3_-xstWnXlC)
 ## Images
-*Picture of deployed smart contract in Remix IDE
+* Picture of deployed smart contract in Remix IDE
    ![smart contract](https://imgur.com/n1V86Yb.png)
 * Copy the processor's address
    ![Processor's Address](https://i.imgur.com/IyUJaah.png)
